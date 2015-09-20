@@ -1,0 +1,51 @@
+You must submit an information sheet with every assignment.
+
+Name:____KJ Sweet_________________ Assignment #: ______Lab 3_____
+
+Program Due Date: _____Sept 22____________
+
+Handed in Date: ______Sept 20___________
+
+JDK Version: _______N/A____________
+
+Source code file name(s):
+
+_________Lab3Castle.pde,__People.pde____________
+
+________________________________________________________________
+
+Compiled (.jar or .class) file name(s): _______N/A_________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: _____yes____
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ____yes_____
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+I could not figure out how to get the sun to rotate at the speed
+________________________________________________________________
+I wanted. Oh well. Like I said in the comments, I guess it's
+________________________________________________________________
+just really hot. That's what I think the effect is, anyway. 
+________________________________________________________________
