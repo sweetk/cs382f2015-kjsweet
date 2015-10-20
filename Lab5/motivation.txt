@@ -1,0 +1,23 @@
+Honestly, I have no idea what I want my filter to do.
+
+The first matrix I tried, {1, 0, 1} ,{0, 1, 0}, {1, 0, 1},
+just came to my head because we were playing with Matrices
+in a class this morning. But it just hurt my head.
+
+I then remembered that they are all supposed to add up
+to 0, so I tried {1, -1, 1}, {-1, 0, -1}, {1, -1, 1}.
+I like symmetry. Turns out this does edge detection
+but doesn't look as pretty as the one I took for
+the bottom left from the convolution code in class.
+
+I remembered I was actually really interested in the
+blowout effect from earlier, so I thought "What if I
+combined edge detection with blowout?" So I put a 4
+in the middle. I don't think a lot of thought went into
+selecting 4. But it looked, awesome, I thought.
+Especially around her eyes. So I figured "What will happen 
+if I put different numbers in the middle?"
+
+So I played around with that for a little bit, and found
+that I enjoyed to effect {1, -1, 1}, {-1, 1, -1}, {1, -1, 1}
+had the most. Science!
