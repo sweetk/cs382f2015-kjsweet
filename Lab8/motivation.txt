@@ -1,0 +1,7 @@
+For this assignment, I made up some numbers representing the various hair colors
+of different majors at Allegheny College. Physics majors are primarily white,
+with brown or sometimes naturally blonde hair. I have green hair and am a
+Physics major. I figured the most opposite of this this chart would be one with
+Art majors. Again, this data is actually entirely made up, but I figured these
+colors were represented somewhere, with the biggest portion being black both
+from natural and dyed sources.  
